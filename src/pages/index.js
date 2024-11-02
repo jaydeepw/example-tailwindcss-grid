@@ -20,7 +20,7 @@ export default function Home() {
       <header className="row-start-3 flex gap-6 mt-8 flex-wrap items-center justify-center sm: p-1">
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://github.com/jaydeepw/example-tailwindcss-grid"
+          href="https://github.com/jaydeepw/example-tailwindcss-grid?utm_src=github_example"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -50,7 +50,7 @@ export default function Home() {
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://toofancoder.com/"
+          href="https://toofancoder.com?utm_src=github_example"
           target="_blank"
           rel="noopener noreferrer"
         >
